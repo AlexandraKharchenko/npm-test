@@ -1,0 +1,19 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Oleksandra",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-airbnb": "^19.0.4",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.38.0",
+    "prettier": "2.8.7"
+  }
+}
